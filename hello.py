@@ -18,3 +18,4 @@ while Continue == "y" :
     elif 32< BMI :
         print("too fat")
     Continue = input("continue ? : (y"+r"\n)"+"\n")
+print("hello git")
